@@ -1089,7 +1089,7 @@ Resume Timeline
 .chart-text span {
     font-size: 18px;
     font-weight: 400;
-    text-transform: capitalize;
+    /*text-transform: capitalize;*/
     display: block;
     margin-top: 20px;
 }
@@ -1453,7 +1453,7 @@ Icon for all respective meta
 
 /* === Hire Section === */
 .hire-section {
-    background: url(../../assets/images/hire-bg.jpg) no-repeat top center #68C3A3;
+    background: no-repeat top center #68C3A3;
     background-attachment: fixed;
     background-size: cover;
     color: #fff;
